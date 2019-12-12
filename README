@@ -1,0 +1,4 @@
+Welcome to the world-class data analysis on speed dating data by Elliot, Kavita and Raksha. By the way, we love the professor and all the TA's for the Big Data Analysis class.
+
+You might need to install mlxtend:
+conda install mlxtend --channel conda-forge
