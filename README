@@ -1,5 +1,5 @@
-Merry Christmas! 
-(:
+Welcome to the speed dating recommendation system built by Elliot, Kavita and Raksha!
 
+Packages
 You might need to install mlxtend:
 conda install mlxtend --channel conda-forge
